@@ -1,0 +1,30 @@
+{
+  "name": "bet",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "coderlyu <974257574@qq.com>",
+  "homepage": "https://github.com/coderlyu/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/bet.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderlyu/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/coderlyu/lerna-test/issues"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3"
+  }
+}
